@@ -1,12 +1,12 @@
 {
-    "name": "liuxm6/yii-kendoui",
+    "name": "liuxm6/yii2-kendoui",
     "description": "Kendo UI Extension for Yii 2",
     "keywords": ["yii2", "kendo", "kendoui", "datasource"],
     "minimum-stability": "dev",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/liuxm6/yii-kendoui"
+        "source": "https://github.com/liuxm6/yii2-kendoui"
     },
     "authors": [
         {
